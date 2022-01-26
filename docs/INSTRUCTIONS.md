@@ -80,13 +80,26 @@ het structuur?
 
 
 ## Criteria
+
+Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.  
+Dit betekent dus ook dat je je ontwerpkeuzes moet kunnen uitleggen en onderbouwen!  
+
+
+*Gedragscriteria*. 
+
+M: Past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.  
+P: Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.  
+L: Maakt aangeboden materie eigen en gebruikt dit bij leertaken.  
+L: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen.  
+  
+
 *Definitions of done*
 
-Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
 
-Dit betekent dus ook dat je je ontwerpkeuzes moet kunnen uitleggen en onderbouwen!  
+
 Deze taak is 'done' als:
 
-- [ ] Je in je beschrijving duidelijk maakt dat je de basisprincipes van layout en compositie kent en begrijpt.
-- [ ] Je kan uitleggen waarom je bepaalde keuzes in layout en compositie hebt gemaakt.
-- [ ] Je de layout en compositie hebt verbeterd waar nodig.
+- [ ] Je in je beschrijving duidelijk maakt dat je de basisprincipes typografie kent en begrijpt.
+- [ ] Je kan uitleggen waarom je bepaalde typografische keuzes hebt gemaakt.
+- [ ] Je de typografie hebt verbeterd waar nodig.
+- [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
