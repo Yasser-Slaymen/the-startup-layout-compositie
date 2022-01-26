@@ -30,14 +30,16 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 3. Beschrijf in de Readme welke keuzes je gemaakt hebt in je layout en compositie, denk aan:  
   
 Visuele hierarchie.  
-Welke basisprincipes van visuele hiërarchie zijn toegepast in de vormgeving? 
--Contrast. 
--Herhaling (Repetition). 
--Uitlijning (Alignment). 
--Nabijheid (Proximity).  
+Welke basisprincipes van visuele hiërarchie zijn toegepast in de vormgeving?  
+ 
+-Contrast.   
+-Herhaling (Repetition).   
+-Uitlijning (Alignment).   
+-Nabijheid (Proximity).    
 
 Compositie.  
 Welke theorie, regels en (basis)principes van compositie zijn terug te zien in het ontwerp?  
+  
 -Symmetrie
 -A-symmetrie. 
 -Radiaal.  
