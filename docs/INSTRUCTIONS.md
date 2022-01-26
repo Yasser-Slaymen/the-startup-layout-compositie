@@ -40,11 +40,11 @@ Welke basisprincipes van visuele hiërarchie zijn toegepast in de vormgeving?
 Compositie.  
 Welke theorie, regels en (basis)principes van compositie zijn terug te zien in het ontwerp?  
   
--Symmetrie
--A-symmetrie. 
--Radiaal.  
--Gulden snede.  
--Rule of thirds. 
+-Symmetrie. 
+-A-symmetrie.   
+-Radiaal.    
+-Gulden snede.    
+-Rule of thirds.   
 
 Grid.  
 Heb je een grid gebruikt en hoe?  
