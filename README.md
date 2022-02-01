@@ -1,20 +1,14 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# layout-compositie
 
-## Inhoudsopgave
+📸 ![Screenshot (202)](https://user-images.githubusercontent.com/90189815/152036987-3968bf4e-2cf1-4129-96c9-043577da39dd.png)
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
 
 ## Beschrijving
+
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
