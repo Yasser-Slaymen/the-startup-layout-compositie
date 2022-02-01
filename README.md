@@ -6,9 +6,9 @@
 
 
 ## Beschrijving
+Hier heb ik de afbeelding uitgesneden, omdat een deel van het oppervlak goed zichtbaar was in de afbeelding, dus ik heb het verwijderd omdat het het onderwerp niet dient.  En ik heb enkele eigenschappen in css gebruikt om de beeldkwaliteit te behouden, en hier heb ik toegepast wat we tijdens de les hebben geleerd, waar de beeldkwaliteit behouden moet blijven, en ik heb ook het principe toegepast van het geven van ruimte aan de elementen door vrije ruimte te geven aan beide zijkanten van de afbeelding (margin-lifte.right)
 
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-
+## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
