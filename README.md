@@ -8,6 +8,11 @@
 ## Beschrijving
 Hier heb ik de afbeelding uitgesneden, omdat een deel van het oppervlak goed zichtbaar was in de afbeelding, dus ik heb het verwijderd omdat het het onderwerp niet dient.  En ik heb enkele eigenschappen in css gebruikt om de beeldkwaliteit te behouden, en hier heb ik toegepast wat we tijdens de les hebben geleerd, waar de beeldkwaliteit behouden moet blijven, en ik heb ook het principe toegepast van het geven van ruimte aan de elementen door vrije ruimte te geven aan beide zijkanten van de afbeelding (margin-lifte.right)
 
+
+
+📸 
+![Screenshot (203)](https://user-images.githubusercontent.com/90189815/152039926-bc064963-1566-4edc-9a98-0558b91ffcd1.png)
+
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
